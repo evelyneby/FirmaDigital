@@ -8,7 +8,7 @@ include 'encabezado.html';
         <div class="col-sm-12">
             <div class="card">
                 <div class="card-body">
-                    <h2>Formulario.</h2>
+                    <h2>Formulario a firmar.</h2>
                     <br>
                     <form action="assets/php/datatopdf.php" method="post" class="row g-3 needs-validation" novalidate>
                         <div class="col-md-4">
